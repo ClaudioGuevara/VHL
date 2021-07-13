@@ -1,0 +1,9 @@
+Mutation,Wild_type,Position,Mutated,Surface,Predicted_ddg,Formula,Quartile,Registered,Abnormalitie,Adenocarcinoma,Alaxia telangiectasia,Angioma,Astrocytoma,C Cell Tumor,Cancer,Carcinoma,Carcinoma of the Jejunum,Carcinosarcoma,Chemodectoma,Chordoma,Cyst Adenoma,Embolism,Erythrocytosis,Hemangioblastoma,Hemangioma,Hipertension,Hodkins Disease,Islet Cell Tumor,Leiomyoblastoma,Leiomyosarcoma,Leukaemia,Melanoma,Mesothelioma,Metastasis,Nodule,Oligoastrocytoma,Oligodendroglioma,Oncocytoma,Paraganglioma,Pheochromocytoma,Polycythemia,PseudoMyxoma Peritoinei,Renal Cell Carcinoma,Thrombosis,Tumor,Wilms_tumour,Effects_amount,1,2,2A,2B,2C,VHL_amount
+M1I,M,1,I,D,0.0,Neutral,Neutral,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+A18T,A,18,T,D,0.51,Neutral,Increase,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E26G,E,26,G,D,-1.85,Neutral,Reduce,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+E26K,E,26,K,D,-1.75,Neutral,Reduce,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+E41K,E,41,K,D,-0.09,Neutral,Neutral,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+E41V,E,41,V,D,0.01,Neutral,Neutral,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+P97L,P,97,L,B,-0.58,Neutral,Neutral,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+P97S,P,97,S,B,-0.63,Neutral,Neutral,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0

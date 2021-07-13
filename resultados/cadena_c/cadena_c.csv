@@ -1,0 +1,11 @@
+Mutation,Wild_type,Position,Mutated,Surface,Predicted_ddg,Formula,Quartile,Registered,Abnormalitie,Adenocarcinoma,Alaxia telangiectasia,Angioma,Astrocytoma,C Cell Tumor,Cancer,Carcinoma,Carcinoma of the Jejunum,Carcinosarcoma,Chemodectoma,Chordoma,Cyst Adenoma,Embolism,Erythrocytosis,Hemangioblastoma,Hemangioma,Hipertension,Hodkins Disease,Islet Cell Tumor,Leiomyoblastoma,Leiomyosarcoma,Leukaemia,Melanoma,Mesothelioma,Metastasis,Nodule,Oligoastrocytoma,Oligodendroglioma,Oncocytoma,Paraganglioma,Pheochromocytoma,Polycythemia,PseudoMyxoma Peritoinei,Renal Cell Carcinoma,Thrombosis,Tumor,Wilms_tumour,Effects_amount,1,2,2A,2B,2C,VHL_amount
+R82C,R,82,C,B,-0.52,Neutral,Neutral,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+R82G,R,82,G,B,-1.06,Neutral,Neutral,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,4,0,0,0,0,0,0
+R82L,R,82,L,B,0.3,Neutral,Increase,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+R82P,R,82,P,B,-1.82,Neutral,Reduce,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,6,0,0,0,1,0,1
+P97L,P,97,L,B,1.84,Increase,Increase,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+P97S,P,97,S,B,0.37,Neutral,Increase,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+L101R,L,101,R,B,-0.29,Neutral,Neutral,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,0,0,1
+L101Q,L,101,Q,B,-0.29,Neutral,Neutral,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,0,0,0,0,0,0
+L101G,L,101,G,B,-1.4,Neutral,Reduce,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+L101P,L,101,P,B,-2.23,Neutral,Reduce,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
