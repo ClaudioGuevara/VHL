@@ -7,11 +7,11 @@ Los resultados estan divididos por cadena (cada una con su carpeta), donde cada 
 * Position
 * Mutated
 * Surface: Presenta 5 salidas, las cuales estan determinadas por la posición (Position) de la mutación:
-    > A: Entre las posiciones 154 y 189.
-    > B: Entre las posiciones 60 y 103.
-    > C: Entre las posiciones 104 y 153.
-    > D: Entre las posiciones 1 y 59.
-    > Las mutaciones que no esten en ninguno de esos rangos, tienen nulo este valor.
+    * A: Entre las posiciones 154 y 189.
+    * B: Entre las posiciones 60 y 103.
+    * C: Entre las posiciones 104 y 153.
+    * D: Entre las posiciones 1 y 59.
+    * Las mutaciones que no esten en ninguno de esos rangos, tienen nulo este valor.
 * Predicted_ddg: DDG determinado por SDM.
 * Formula: Se definen tres salidas:
     > Increase: Las mutaciones que presentan un DDG por sobre o igual el mean + 1.5*std.
